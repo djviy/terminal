@@ -1,6 +1,6 @@
 # terminal
 Комманды терминала
-![alt text](https://github.com/djviy/terminal/blob/master/icon-terminal.png "Terminal logo")
+![alt text](https://github.com/djviy/terminal/blob/master/icon-terminal-128.png "Terminal logo")
 
 #### Установка **tree**
 *Плагин для отображения дерева папок и файлов*  
