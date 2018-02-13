@@ -1,5 +1,5 @@
-# terminal
-Комманды терминала
+# terminal  
+Комманды терминала  
 ![alt text](https://github.com/djviy/terminal/blob/master/icon-terminal-128.png "Terminal logo")
 
 #### Установка **tree**
