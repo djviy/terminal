@@ -10,9 +10,9 @@ macOS: brew install tree [Установить brew](https://www.google.com)
 
 **ls** - файлы и папки в текущей директории  
 **pwd** *(Print working directory)* - отобразить рабочую директурию  
-**mkdir** создать директорию
-**mkdir -p Folder1/Folder2** - создание директорый рекурсивно
-**touch File1** - создание файла
+**mkdir** создать директорию  
+**mkdir -p Folder1/Folder2** - создание директорый рекурсивно  
+**touch File1** - создание файла  
 **tree Folder1** - дерево папки *Folder1*  
 
 ### mv Перемещение
@@ -22,6 +22,6 @@ macOS: brew install tree [Установить brew](https://www.google.com)
 ### rm Удаление
 **rm File1** - удалить File1  
 **rm -r Folder1** -  удаление папки Folder 1  
-**rm -r \* ** - удалить всё в текущем каталоге  
-**rm -r Folder/ \* ** - удалить всё в каталоге Folder  
+rm -r \* - удалить всё в текущем каталоге  
+rm -r Folder/\* - удалить всё в каталоге Folder  
 **rm -rf** - удалить всё. ВАЖНО! Можно *rm -fr /* - можно повредить систему (*f* - force)
